@@ -2,10 +2,10 @@ const sectionMain = `
 <div>
 <center>
 <img
-  src="./assets/img/logo.png"
+  src="./assets/img/logo3.png"
   alt="Logo"
   class="mt-4"
-  style="width: 140px"
+  style="width: 210px"
 />
 <h3 class="mt-1">
   <a href="./index.html" target="_self">
