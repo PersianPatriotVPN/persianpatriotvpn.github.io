@@ -8,12 +8,35 @@ const sectionMain = `
   style="width: 210px"
 />
 <h3 class="mt-1">
-  <a href="./index.html" target="_self">
+  <a
+  style="text-decoration: unset;"
+  href="./index.html"
+  target="_self"
+  >
     صفحه اصلی
+  <br />
+
+  
+  <code 
+  style="font-size:14px;"
+  >
+  https://persianpatriotvpn.github.io
+  </code>
+  
+
   </a>
 </h3>
-<p class="lead mt-4">
-  این یک سیستم جهت رفع تحریم‌های ظالمانه 🫠 جهت اتصال به اینترنت می‌باشد
+<p
+class="lead mt-4"
+style="font-size: 21px;"
+
+>
+  این سیستم جهت رفع تحریم‌های ظالمانه 
+  
+  <img src="./assets/img/melting-face_1fae0.png"
+  style="width: 28px;"
+  />
+  جهت اتصال به اینترنت می‌باشد
 </p>
 </center>
 </div>
