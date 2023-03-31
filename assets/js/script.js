@@ -20,7 +20,7 @@ const sectionMain = `
   <code 
   style="font-size:14px;"
   >
-  https://persianpatriotvpn.github.io
+  https://PersianPatriotVPN.github.io
   </code>
   
 
