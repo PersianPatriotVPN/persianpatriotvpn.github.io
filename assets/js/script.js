@@ -16,14 +16,12 @@ const sectionMain = `
     صفحه اصلی
   <br />
 
-  
   <code 
   style="font-size:14px;"
   >
   https://PersianPatriotVPN.github.io
   </code>
   
-
   </a>
 </h3>
 <p

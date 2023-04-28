@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /*!
  * Bootstrap v5.0.2 (https://getbootstrap.com/)
@@ -47,7 +48,7 @@
 
 body {
     margin: 0;
-    font-family: var(--bs-font-sans-serif);
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -81,6 +82,7 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     margin-top: 0;
     margin-bottom: .5rem;
     font-weight: 500;
@@ -150,6 +152,7 @@ h6 {
 }
 
 p {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     margin-top: 0;
     margin-bottom: 1rem
 }
@@ -201,13 +204,23 @@ blockquote {
     margin: 0 0 1rem
 }
 
+strong {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
+}
+
 b,
 strong {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     font-weight: bolder
+}
+
+small {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
 }
 
 .small,
 small {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     font-size: .875em
 }
 
@@ -234,6 +247,7 @@ sup {
 }
 
 a {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     color: #0d6efd;
     text-decoration: underline
 }
@@ -334,6 +348,7 @@ tr {
 }
 
 label {
+    font-family: 'Noto Sans Arabic', 'Noto Sans';
     display: inline-block
 }
 
